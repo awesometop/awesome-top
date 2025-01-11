@@ -18,21 +18,21 @@
 <img src="/img/homepage.jpg" alt="Awesome Top Home">
 </p>
 
-- [全部项目](https://awesometop.cn/explore){target="\_blank"} 按分类精准快速查找您所需要的项目。
+- <a href="https://awesometop.cn/explore" target="_blank">全部项目</a> 按分类精准快速查找您所需要的项目。
 
 <p align="center">
 <img src="/img/explore.jpg" alt="Awesome Top Explore">
 </p>
 
-- [热门榜单](https://awesometop.cn/hotlist){target="\_blank"} 按日、周、月查询星标增长项目榜单。
+- <a href="https://awesometop.cn/hotlist" target="_blank">热门榜单</a> 按日、周、月查询星标增长项目榜单。
 
 <p align="center">
 <img src="/img/hotlist.jpg" alt="Awesome Top Hotlist">
 </p>
 
-- [精选系列](https://awesometop.cn/awesome){target="\_blank"} 精选 Awesome 系列项目和学习资源清单。
+- <a href="https://awesometop.cn/awesome" target="_blank">精选系列</a> 精选 Awesome 系列项目和学习资源清单。
 
-- [热门文章](https://awesometop.cn/posts){target="\_blank"} 精选热门开源项目文章，这里有相关的教程与应用、常见问题等等。
+- <a href="https://awesometop.cn/posts" target="_blank">热门文章</a> 精选热门开源项目文章，这里有相关的教程与应用、常见问题等等。
 
 ## 意见建议
 
